@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: buyudarenc@gmail.com
 description: "这里是 @buyudaren赵昌浩 的个人博客，与你一起发现更大的世界 | 不能止步于此"
 keyword: "捕鱼达人, buyudaren赵昌浩, buyudaren, buyudarenpro, @buyudarenpro, 赵昌浩的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://github.com/Zhao-Changhao" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "不能止步于此 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Zhao-Changhao/Zhao-Changhao.github.io/blob/master/imgs/buyudaren.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
